@@ -1,2 +1,2 @@
 # Syringe Light
-![connection](syringe-light/images/breadboard-connection.png?raw=true)
+![connection](images/breadboard-connection.png?raw=true)
