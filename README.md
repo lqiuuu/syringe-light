@@ -1,1 +1,1 @@
-# syringe-light
+# Syringe Light
